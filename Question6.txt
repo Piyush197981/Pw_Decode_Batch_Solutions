@@ -1,0 +1,6 @@
+How many of these can be a variable name ?
+01Pwskills :- Invalid
+_FLOAT :- valid
+int :- Invalid
+FLOAT :- valid
+You will succeed :- Invalid
