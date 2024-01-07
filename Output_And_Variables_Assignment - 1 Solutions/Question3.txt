@@ -1,0 +1,4 @@
+How much space does the following data types take?
+int :- 4 Bytes
+bool :- 1 Byte
+float :- 4 Bytes
