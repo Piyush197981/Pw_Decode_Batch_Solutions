@@ -1,0 +1,7 @@
+The minimum number of functions present in any C++ program is:
+0
+1
+2
+Infinite
+
+Answer Is :- 1(int main function)

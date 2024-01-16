@@ -1,0 +1,10 @@
+Explore:
+Can the same function name be used for different functions without any conflict?
+
+ans:- in C++, you can use the same function name for different functions without conflict through function overloading.
+
+
+
+
+
+
