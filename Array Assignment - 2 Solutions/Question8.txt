@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+double getAverage(int arr[], int size);
+
+int main(){
+
+    int balance[5] = {1000, 2, 3, 17, 50};
+    double avg;
+    avg = getAverage(balance[0], 5 ) ;
+    cout << "Average value is: " << avg << endl;
+
+return 0;
+}
+
+
+error :-
+the error is while calling the function we are passing an array there so will pass like balance not balance[0]. balance[0] means we are passing the first element but we need to pass the array not the first element if we use balance or &balance[0] then it is correct
