@@ -1,0 +1,1 @@
+the time complexicity of the code is O(N).
